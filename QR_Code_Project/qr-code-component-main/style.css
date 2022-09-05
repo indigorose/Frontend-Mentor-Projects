@@ -22,6 +22,7 @@ body {
   display: grid;
   grid-template-columns: auto;
   border-radius: 7%;
+  box-shadow: rgba(124, 128, 131, 0.2) 2px 8px 24px;
 }
 
 .card {
